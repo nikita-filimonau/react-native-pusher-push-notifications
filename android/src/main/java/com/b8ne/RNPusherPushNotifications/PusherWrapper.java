@@ -4,6 +4,7 @@ import android.util.Log;
 
 import android.app.Activity;
 
+import java.util.Map;
 import java.util.Set;
 
 import com.facebook.react.bridge.*;
